@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayomide onibokun</h1>
+<h1 align="center">Hi 👋, I'm Ayomide Onibokun</h1>
 <h3 align="center">A technology enthusiast who is passionate about building solution with technology</h3>
 <p align="left"> <a href="https://twitter.com/ayomideonibokun" target="blank"><img src="https://img.shields.io/twitter/follow/ayomideonibokun?logo=twitter&style=for-the-badge" alt="ayomideonibokun" /></a> </p>
 
