@@ -5,7 +5,7 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 Vadton Tech 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 Engineering 𝚊𝚝 Oduduwa Univerisity
-- 💬 Ask me about **django, laravel**
+- 💬 Ask me about **django,node, laravel**
 - 📫 How to reach me **ayo6706@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
