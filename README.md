@@ -12,7 +12,7 @@
 - 👨‍🎓 Learning GoLang
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayo6706" alt="ayo6706" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayo6706" alt="ayo6706" /></a> </p> -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -44,7 +44,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayo6706&show_icons=true&locale=en&layout=compact" alt="ayo6706" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayo6706&show_icons=true&locale=en" alt="ayo6706" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayo6706&show_icons=true&locale=en" alt="ayo6706" /></p> -->
 
 
 
