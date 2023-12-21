@@ -4,12 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/ayomideonibokun" target="blank"><img src="https://img.shields.io/twitter/follow/ayomideonibokun?logo=twitter&style=for-the-badge" alt="ayomideonibokun" /></a> </p>
 
-- 🌱 I’m currently learning **GOLANG**
+- 👨‍🎓 I’m currently learning **GOLANG**
 - 💬 Ask me about **django,node, laravel**
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 Studied 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 Engineering 𝚊𝚝 Oduduwa Univerisity
-- 📫 How to reach me **ayo6706@gmail.com**
-- 👨‍🎓 Learning GoLang
+- 📫 How to reach me **ayo6706@gmail.com** 
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayo6706" alt="ayo6706" /></a> </p> -->
