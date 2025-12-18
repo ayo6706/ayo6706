@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ayomide Onibokun</h1>
-<h3 align="center">A technology enthusiast who is passionate about building solution with technology</h3>
+<h3 align="center">Backend & AI Engineer building scalable systems, intelligent workflows, and developer-first products.</h3>
 
 
 <p align="left"> <a href="https://twitter.com/ayomideonibokun" target="blank"><img src="https://img.shields.io/twitter/follow/ayomideonibokun?logo=twitter&style=for-the-badge" alt="ayomideonibokun" /></a> </p>
 
-- 👨‍🎓 I’m currently exploring **AI**
-- 💬 Ask me about **django,node, laravel**
-- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 🎓 Studied 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 Engineering 𝚊𝚝 Oduduwa University
+- 💻 Backend-focused engineer with strong experience in **Node.js, Go, MongoDB, and distributed systems**
+- 🤖 Actively building **AI-powered products**, including **RAG systems, LLM integrations, and workflow automation**
+- 🧠 Interested in **system design, scalability, and developer productivity**
+- ✍️ Write technical content for **senior engineers & engineering managers**
+- 🧪 Exploring **AI-assisted testing, MCP-enabled tools, and agentic systems**
+- 🎓 Studied **Computer Engineering** at **Oduduwa University**
 - 📫 How to reach me **ayo6706@gmail.com** 
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayo6706" alt="ayo6706" /></a> </p> -->
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,9 +23,12 @@
 <a href="https://medium.com/@ayomideonibokun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayomideonibokun" height="30" width="40" /></a>
 </p>
 
-## 👯 Other Technology Explore
-- Internet Of Things
-- Virtual Reality
+### 🧩 What I’m Currently Working On
+
+- 🔍 AI & RAG systems for real-world applications
+- 🤝 Customer support AI with real-time capabilities
+- 🧪 Improving testing & delivery speed with AI-assisted tools
+- ✨ Product-driven engineering (clarity > complexity)
 
 ---
 
